@@ -1,0 +1,6 @@
+framework module Pods_iMessage__using_Firebase_ {
+  umbrella header "Pods-iMessage (using Firebase)-umbrella.h"
+
+  export *
+  module * { export * }
+}
